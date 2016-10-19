@@ -1,15 +1,15 @@
 {
-  "name": "brunch-app",
-  "description": "Description",
-  "author": "Your Name",
+  "name": "lemon",
+  "description": "Lemon Agency Landing Page",
+  "author": "Imam Susanto",
   "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": ""
   },
   "scripts": {
-    "start": "brunch watch --server",
-    "build": "brunch build --production"
+    "start": "gulp watch",
+    "build": "gulp --production"
   },
   "dependencies": {
     "headroom.js": "^0.9.3",
