@@ -1,0 +1,29 @@
+{
+  "name": "lemon",
+  "description": "Lemon Agency Landing Page",
+  "author": "Imam Susanto",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "gulp watch",
+    "build": "gulp --production"
+  },
+  "dependencies": {
+    "headroom.js": "^0.9.3",
+    "jquery": "^3.1.1",
+    "jump.js": "^1.0.1",
+    "mdi": "^1.7.22",
+    "tachyons": "^4.5.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-11",
+    "laravel-elixir-browsersync-official": "^1.0.0",
+    "laravel-elixir-postcss": "^0.4.1",
+    "laravel-elixir-webpack-official": "^1.0.8",
+    "precss": "^1.4.0"
+  }
+}

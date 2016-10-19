@@ -1,0 +1,21 @@
+.bg-lemon {
+  background-color: #FFFF21;
+}
+
+.lemon {
+  color: #FFFF21;
+}
+
+.b--lemon {
+  border-color: #FFFF21;
+}
+
+.hover-lemon:hover, .hover-lemon:focus {
+  color: #FFFF21;
+}
+
+.hover-bg-lemon:hover, .hover-bg-lemon:focus {
+  background-color: #FFFF21;
+}
+
+
